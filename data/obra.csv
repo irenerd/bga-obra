@@ -1,16 +1,16 @@
-"ID","title","date","format","medium","archivo"
-1,"Los Suicidas del Sisga No 1",1965,"120x100cm","Óleo sobre lienzo","suicidas-sisga-1.jpg"
-2,"El Paraíso",1997,"160x45 cm","Óleo sobre lienzo","el-paraiso.jpg"
-3,"Zócalo de la tragedia",1983,"100x70","Tipografía sobre papel","zocalo-tragedia.jpg"
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,"                       ",,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,"                       ",,,,
+"ID","title","date","format","medium","archivo","referente"
+1,"Los Suicidas del Sisga No 1",1965,"120x100cm","Óleo sobre lienzo","suicidas-sisga-1.jpg",1
+2,"El Paraíso",1997,"160x45 cm","Óleo sobre lienzo","el-paraiso.jpg","2,3"
+3,"Zócalo de la tragedia",1983,"100x70","Tipografía sobre papel","zocalo-tragedia.jpg",4
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,"                       ",,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,"                       ",,,,,
